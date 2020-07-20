@@ -1,4 +1,4 @@
-# Marathi News Documents Dataset for extractive text summarization
+# Marathi news document dataset for extractive text summarization
 
 A collection of 100 news articles in Marathi language along with their corresponding summaries. The summaries are extractive in nature and have been acknowledged by a language expert.
 
